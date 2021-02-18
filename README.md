@@ -1,7 +1,9 @@
 # JModelica.org version 2.1
-Simulations of the [MultizoneVAV](../../../MultizoneVAV) testbed were implemented using JModelica.org version 2.1 textual simulation environment. Accordingly, this is the software repository for JModelica.org version 2.1 (r10720) without modification. 
+Simulations of the [MultizoneVAV](../../../MultizoneVAV) testbed were implemented using JModelica.org version 2.1 (r10720) textual simulation environment. Accordingly, this software repository redistributes JModelica.org version 2.1 (r10720) without modification. 
 
-For description of a customized procedure for compiling JModelica.org from sources on Ubuntu, please refer to [Section 1 in the MultizoneVAV README file](../../../MultizoneVAV). The original installation procedure is provided in *JModelica.org User Manual 2.1*, however, since the time the MultizoneVAV testbed was developed JModelica.org discontinued providing direct access to the user manual. The reader may refer to the installation procedure in *JModelica.org User Manual 2.2* at the following [link](https://jmodelica.org/downloads/UsersGuide.pdf).
+For description of a customized procedure for compiling JModelica.org from sources on an Ubuntu 16.04.4 LTS distribution, please refer to [Section 1 in the MultizoneVAV README file](../../../MultizoneVAV). The original installation procedure is provided in *JModelica.org User Manual 2.1*, however, since the time the MultizoneVAV testbed was developed JModelica.org discontinued providing direct access to the user manual. For the original installation procedure for the last public open source version of JModelica.org, the reader may refer to *JModelica.org User Manual 2.2* at <https://jmodelica.org/downloads/UsersGuide.pdf>.
+
+For more details about JModelica.org, please refer to <https://jmodelica.org/>.
 
 # License & copyright
 Copyright (C) 2017 Modelon AB
